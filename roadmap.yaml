@@ -1,20 +1,19 @@
 title: React for experts
 description: You will learn react for web and native.
 tags:
-- javascript
 - react
 - react native
-- mobile
+- mobile development
 stages:
 - 
-  title: learn the basics
+  title: Learn react basics
   resources:
   - https://www.youtube.com/watch?v=DIomfxxCpM8
-  - http://www.javaworld.com/article/2892227/open-source-tools/codehaus-the-once-great-house-of-code-has-fallen.html
+  - https://medium.com/@_erikaybar/one-developers-condensed-intro-to-react-68cbf078f992
   exercise: stage1.md
 - 
-  title: learn swing
+  title: Intro to native
   resources:
   - https://www.youtube.com/watch?v=iPsORZun55g
-  - http://java-swing-tips.blogspot.co.il/2017/06/automatically-adjust-height-of-jtables.html
+  - https://school.shoutem.com/lectures/build-react-native-mobile-app-tutorial/
   exercise: stage2.md 
