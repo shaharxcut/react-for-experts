@@ -1,3 +1,3 @@
 ## exercise time
 
-build a skeleton app
+build a basic react web app that simulates a blog system
