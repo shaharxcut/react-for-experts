@@ -1,3 +1,3 @@
 ## last exercise
 
-print hello world
+turn your react blog system web app into a mobile app
